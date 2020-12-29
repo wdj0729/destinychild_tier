@@ -2,7 +2,7 @@ const childInfo = [
     // 화속성
     {
       'id': 1,
-      'image': process.env.PUBLIC_URL + 'img/브리지드.JPG',
+      'image': process.env.PUBLIC_URL + 'img/Brigitte.jpg',
       'name': '브리지드',
       'normalSkill': '일반스킬',
       'amplifiSkill': '증폭스킬',
@@ -21,7 +21,7 @@ const childInfo = [
     },
     {
       'id': 2,
-      'image': process.env.PUBLIC_URL + 'img/고검 티아마트.JPG',
+      'image': process.env.PUBLIC_URL + 'img/Venerable Blade Tiamat.jpg',
       'name': '고검 티아마트',
       'normalSkill': '일반스킬',
       'amplifiSkill': '증폭스킬',
@@ -40,7 +40,7 @@ const childInfo = [
     },
     {
         'id': 3,
-        'image': process.env.PUBLIC_URL + 'img/모건.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Morgan.jpg',
         'name': '모건',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -59,7 +59,7 @@ const childInfo = [
       },
       {
         'id': 4,
-        'image': process.env.PUBLIC_URL + 'img/러블리 레다.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Sweet Leda.jpg',
         'name': '러블리 레다',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -78,7 +78,7 @@ const childInfo = [
       },
       {
         'id': 5,
-        'image': process.env.PUBLIC_URL + 'img/베리드 다비.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Berry Davi.jpg',
         'name': '베리드 다비',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -97,7 +97,7 @@ const childInfo = [
       },
       {
         'id': 6,
-        'image': process.env.PUBLIC_URL + 'img/매혹 바토리.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Fashination Bathori.jpg',
         'name': '매혹 바토리',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -116,7 +116,7 @@ const childInfo = [
       },
       {
         'id': 7,
-        'image': process.env.PUBLIC_URL + 'img/카인.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Cain.jpg',
         'name': '카인',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -135,7 +135,7 @@ const childInfo = [
       },
       {
         'id': 8,
-        'image': process.env.PUBLIC_URL + 'img/티르빙.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Tirfing.jpg',
         'name': '티르빙',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -154,7 +154,7 @@ const childInfo = [
       },
       {
         'id': 9,
-        'image': process.env.PUBLIC_URL + 'img/메브.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Medb.jpg',
         'name': '메브',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -173,7 +173,7 @@ const childInfo = [
       },
       {
         'id': 10,
-        'image': process.env.PUBLIC_URL + 'img/살라딘.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Saladin.jpg',
         'name': '살라딘',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -192,7 +192,7 @@ const childInfo = [
       },
       {
         'id': 11,
-        'image': process.env.PUBLIC_URL + 'img/지바.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Ziva.jpg',
         'name': '지바',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -211,7 +211,7 @@ const childInfo = [
       },
       {
         'id': 12,
-        'image': process.env.PUBLIC_URL + 'img/코우카.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Kouka.jpg',
         'name': '코우카',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -230,7 +230,7 @@ const childInfo = [
       },
       {
         'id': 13,
-        'image': process.env.PUBLIC_URL + 'img/헤스티아.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Hestia.jpg',
         'name': '헤스티아',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -249,7 +249,7 @@ const childInfo = [
       },
       {
         'id': 14,
-        'image': process.env.PUBLIC_URL + 'img/구미호.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Mezmerizing Nine Tail Fox.jpg',
         'name': '구미호',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -268,7 +268,7 @@ const childInfo = [
       },
       {
         'id': 15,
-        'image': process.env.PUBLIC_URL + 'img/리모스.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Limos.jpg',
         'name': '리모스',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -287,7 +287,7 @@ const childInfo = [
       },
       {
         'id': 16,
-        'image': process.env.PUBLIC_URL + 'img/알릴.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Ailill.jpg',
         'name': '알릴',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -306,7 +306,7 @@ const childInfo = [
       },
       {
         'id': 17,
-        'image': process.env.PUBLIC_URL + 'img/레이팡.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Leifang.jpg',
         'name': '레이팡',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -325,7 +325,7 @@ const childInfo = [
       },
       {
         'id': 18,
-        'image': process.env.PUBLIC_URL + 'img/스쿨라이프 이브.JPG',
+        'image': process.env.PUBLIC_URL + 'img/School Life Eve.jpg',
         'name': '스쿨라이프 이브',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -344,7 +344,7 @@ const childInfo = [
       },
       {
         'id': 19,
-        'image': process.env.PUBLIC_URL + 'img/드미테르.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Demeter.jpg',
         'name': '드미테르',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -363,7 +363,7 @@ const childInfo = [
       },
       {
         'id': 20,
-        'image': process.env.PUBLIC_URL + 'img/나인.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Nine.jpg',
         'name': '나인',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -382,7 +382,7 @@ const childInfo = [
       },
       {
         'id': 21,
-        'image': process.env.PUBLIC_URL + 'img/카라라트리.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Kalaratri.jpg',
         'name': '카라라트리',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -401,7 +401,7 @@ const childInfo = [
       },
       {
         'id': 22,
-        'image': process.env.PUBLIC_URL + 'img/주피터.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Jupiter.jpg',
         'name': '주피터',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -420,7 +420,7 @@ const childInfo = [
       },
       {
         'id': 23,
-        'image': process.env.PUBLIC_URL + 'img/비극의 루살카.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Tragic Rusalka.jpg',
         'name': '비극의 루살카',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -439,7 +439,7 @@ const childInfo = [
       },
       {
         'id': 24,
-        'image': process.env.PUBLIC_URL + 'img/사막여우.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Fennec.jpg',
         'name': '사막여우',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -458,7 +458,7 @@ const childInfo = [
       },
       {
         'id': 25,
-        'image': process.env.PUBLIC_URL + 'img/베르들레.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Verdel.jpg',
         'name': '베르들레',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -477,7 +477,7 @@ const childInfo = [
       },
       {
         'id': 26,
-        'image': process.env.PUBLIC_URL + 'img/레드퀸.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Redqueen.jpg',
         'name': '레드퀸',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -496,7 +496,7 @@ const childInfo = [
       },
       {
         'id': 27,
-        'image': process.env.PUBLIC_URL + 'img/페일노트.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Failnaught.jpg',
         'name': '페일노트',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -515,7 +515,7 @@ const childInfo = [
       },
       {
         'id': 28,
-        'image': process.env.PUBLIC_URL + 'img/마이라.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Myra.jpg',
         'name': '마이라',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -534,7 +534,7 @@ const childInfo = [
       },
       {
         'id': 29,
-        'image': process.env.PUBLIC_URL + 'img/크리스마스 레다.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Christmas Leda.jpg',
         'name': '크리스마스 레다',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -553,7 +553,7 @@ const childInfo = [
       },
       {
         'id': 30,
-        'image': process.env.PUBLIC_URL + 'img/할로윈스타 메브.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Halloween Star Medb.jpg',
         'name': '할로윈스타 메브',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -572,7 +572,7 @@ const childInfo = [
       },
       {
         'id': 31,
-        'image': process.env.PUBLIC_URL + 'img/에르메스.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Hermes.jpg',
         'name': '에르메스',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -591,7 +591,7 @@ const childInfo = [
       },
       {
         'id': 32,
-        'image': process.env.PUBLIC_URL + 'img/디나시.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Dinashi.jpg',
         'name': '디나시',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -610,7 +610,7 @@ const childInfo = [
       },
       {
         'id': 33,
-        'image': process.env.PUBLIC_URL + 'img/마희 혜낭.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Mahui Hyenang.jpg',
         'name': '마희 혜낭',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -629,7 +629,7 @@ const childInfo = [
       },
       {
         'id': 34,
-        'image': process.env.PUBLIC_URL + 'img/스킨다이버 모나.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Skin Diver Mona.jpg',
         'name': '스킨다이버 모나',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -648,7 +648,7 @@ const childInfo = [
       },
       {
         'id': 35,
-        'image': process.env.PUBLIC_URL + 'img/아르고스.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Argus.jpg',
         'name': '아르고스',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -667,7 +667,26 @@ const childInfo = [
       },
       {
         'id': 36,
-        'image': process.env.PUBLIC_URL + 'img/하데스.JPG',
+        'image': process.env.PUBLIC_URL + 'img/Catherine.jpg',
+        'name': '바람둥이 캐서린',
+        'normalSkill': '일반스킬',
+        'amplifiSkill': '증폭스킬',
+        'normalDungeon': 'B',
+        'amplifiDungeon': 'B',
+        'normalRumble': 'A',
+        'amplifiRumble': 'A',
+        'normalDuel': 'B+',
+        'amplifiDuel':'B+',
+        'normalRaid': 'B',
+        'amplifiRaid': 'B',
+        'normalWorldBoss': 'C',
+        'amplifiWorldBoss': 'C',
+        'normalTotal': 'B',
+        'amplifiTotal': 'B',
+      },
+      {
+        'id': 37,
+        'image': process.env.PUBLIC_URL + 'img/Hades.jpg',
         'name': '하데스',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -685,8 +704,8 @@ const childInfo = [
         'amplifiTotal': 'B',
       },
       {
-        'id': 37,
-        'image': process.env.PUBLIC_URL + 'img/카쿠스.JPG',
+        'id': 38,
+        'image': process.env.PUBLIC_URL + 'img/Cacus.jpg',
         'name': '카쿠스',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -704,8 +723,8 @@ const childInfo = [
         'amplifiTotal': 'A',
       },
       {
-        'id': 38,
-        'image': process.env.PUBLIC_URL + 'img/계시자 다나.JPG',
+        'id': 39,
+        'image': process.env.PUBLIC_URL + 'img/Revelator Dana.jpg',
         'name': '계시자 다나',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -723,8 +742,8 @@ const childInfo = [
         'amplifiTotal': 'B',
       },
       {
-        'id': 39,
-        'image': process.env.PUBLIC_URL + 'img/호노카.JPG',
+        'id': 40,
+        'image': process.env.PUBLIC_URL + 'img/Honoka.jpg',
         'name': '호노카',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -742,8 +761,8 @@ const childInfo = [
         'amplifiTotal': 'B',
       },
       {
-        'id': 40,
-        'image': process.env.PUBLIC_URL + 'img/아우로라.JPG',
+        'id': 41,
+        'image': process.env.PUBLIC_URL + 'img/Aurora.jpg',
         'name': '아우로라',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
@@ -761,8 +780,8 @@ const childInfo = [
         'amplifiTotal': 'B',
       },
       {
-        'id': 41,
-        'image': process.env.PUBLIC_URL + 'img/라우페이.JPG',
+        'id': 42,
+        'image': process.env.PUBLIC_URL + 'img/Laufey.jpg',
         'name': '라우페이',
         'normalSkill': '일반스킬',
         'amplifiSkill': '증폭스킬',
